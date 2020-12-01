@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightLogoSplash">45dp</dimen>
+    <dimen name="heightToolbar">30dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="cardElevation">0dp</dimen>
+    <dimen name="heightImageHome">160dp</dimen>
+    <dimen name="sizeTitulo">20sp</dimen>
+    <dimen name="marginHomeSubtitulo">10dp</dimen>
+    <dimen name="sizeSubTitulo">15sp</dimen>
+    <dimen name="marginCardHome">15dp</dimen>
+    <dimen name="sizeTitleSchedule">30sp</dimen>
+    <dimen name="sizeSubtitleSchedule">20sp</dimen>
+    <dimen name="heightImageDetailSchedule">200dp</dimen>
+</resources>
